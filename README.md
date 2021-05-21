@@ -1,4 +1,4 @@
-# Dayona Car Dealership CLustering: Project Overview 
+# Dayona Car Dealership Clustering: Project Overview 
 * Created a some clusters to help managers of car dealership decide to which customer groups to sell cars.
 * Data gathered from Kaggle
 * Optimized k-means clustering with elbow and silhoutte method to find best results 
